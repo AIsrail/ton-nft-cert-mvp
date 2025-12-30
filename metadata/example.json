@@ -1,0 +1,13 @@
+{
+  "name": "NFT Certificate – Sample Course",
+  "description": "Training certificate issued on TON",
+  "image": "ipfs://CID_IMAGE",
+  "attributes": {
+    "template_id": 1,
+    "participant": "John Doe",
+    "course": "Fundraising Basics",
+    "hours": "24",
+    "issuer": "Connect4Pro",
+    "date": "2025-01-10"
+  }
+}
